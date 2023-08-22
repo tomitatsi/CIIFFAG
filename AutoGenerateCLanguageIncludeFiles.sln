@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AutoGenerateCLanguageIncludeFiles", "AutoGenerateCLanguageIncludeFiles\AutoGenerateCLanguageIncludeFiles.pyproj", "{A9791BAF-0861-47B2-A369-854DFCDB4BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9791BAF-0861-47B2-A369-854DFCDB4BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9791BAF-0861-47B2-A369-854DFCDB4BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2592A45D-936B-470A-87EC-380816CC1F4C}
+	EndGlobalSection
+EndGlobal
